@@ -1,0 +1,16 @@
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\project_quick_sort.exe
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\project_quick_sort.deps.json
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\project_quick_sort.runtimeconfig.json
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\project_quick_sort.runtimeconfig.dev.json
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\project_quick_sort.dll
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\ref\project_quick_sort.dll
+F:\project_quick_sort\project_quick_sort\bin\Debug\net5.0\project_quick_sort.pdb
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.GeneratedMSBuildEditorConfig.editorconfig
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.AssemblyInfoInputs.cache
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.AssemblyInfo.cs
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.csproj.CoreCompileInputs.cache
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.dll
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\ref\project_quick_sort.dll
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.pdb
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.genruntimeconfig.cache
+F:\project_quick_sort\project_quick_sort\obj\Debug\net5.0\project_quick_sort.csproj.AssemblyReference.cache
